@@ -1,0 +1,129 @@
+id: I6D93A375
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-31T17:00:31+00:00'
+last_modified: '2022-06-08T02:28:13.169687+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W4CZ58530
+  title: གསུང་འབུམ། བཀྲ་ཤིས་རྒྱལ་མཚན།
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
+  base:
+    8C8E:
+      image_group_id: I4CZ58744
+      title: ''
+      total_pages: 439
+      order: 1
+      base_file: 8C8E.txt
+    23F7:
+      image_group_id: I4CZ58745
+      title: ''
+      total_pages: 526
+      order: 2
+      base_file: 23F7.txt
+    20D2:
+      image_group_id: I4CZ58746
+      title: ''
+      total_pages: 536
+      order: 3
+      base_file: 20D2.txt
+    F853:
+      image_group_id: I4CZ58747
+      title: ''
+      total_pages: 562
+      order: 4
+      base_file: F853.txt
+    89E4:
+      image_group_id: I4CZ58748
+      title: ''
+      total_pages: 774
+      order: 5
+      base_file: 89E4.txt
+    41B3:
+      image_group_id: I4CZ58749
+      title: ''
+      total_pages: 643
+      order: 6
+      base_file: 41B3.txt
+    61DB:
+      image_group_id: I4CZ58750
+      title: ''
+      total_pages: 498
+      order: 7
+      base_file: 61DB.txt
+    F1C1:
+      image_group_id: I4CZ58751
+      title: ''
+      total_pages: 770
+      order: 8
+      base_file: F1C1.txt
+    4E21:
+      image_group_id: I4CZ58752
+      title: ''
+      total_pages: 292
+      order: 9
+      base_file: 4E21.txt
+    986E:
+      image_group_id: I4CZ58753
+      title: ''
+      total_pages: 556
+      order: 10
+      base_file: 986E.txt
+    5E67:
+      image_group_id: I4CZ58754
+      title: ''
+      total_pages: 747
+      order: 11
+      base_file: 5E67.txt
+    A674:
+      image_group_id: I4CZ58755
+      title: ''
+      total_pages: 544
+      order: 12
+      base_file: A674.txt
+    B0B8:
+      image_group_id: I4CZ58756
+      title: ''
+      total_pages: 508
+      order: 13
+      base_file: B0B8.txt
+    56DB:
+      image_group_id: I4CZ58757
+      title: ''
+      total_pages: 555
+      order: 14
+      base_file: 56DB.txt
+    C483:
+      image_group_id: I4CZ58758
+      title: ''
+      total_pages: 778
+      order: 15
+      base_file: C483.txt
+    288E:
+      image_group_id: I4CZ58759
+      title: ''
+      total_pages: 738
+      order: 16
+      base_file: 288E.txt
+    A7C8:
+      image_group_id: I4CZ58760
+      title: ''
+      total_pages: 432
+      order: 17
+      base_file: A7C8.txt
+    '5748':
+      image_group_id: I4CZ58761
+      title: ''
+      total_pages: 560
+      order: 18
+      base_file: 5748.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
